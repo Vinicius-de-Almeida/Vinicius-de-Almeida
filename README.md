@@ -41,6 +41,13 @@ With a strong commitment to building responsive and accessible web interfaces, I
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinicius-de-almeida&show_icons=true&theme=ocean_dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"  target="_blank">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueLusvarghi/KaiqueLusvarghi/output/github-contribution-grid-snake.svg"  target="_blank">
+  
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaiqueLusvarghi/KaiqueLusvarghi/output/github-contribution-grid-snake.svg" target="_blank">
+</picture>
+
 ---
 
 ### 📬 Connect with me
