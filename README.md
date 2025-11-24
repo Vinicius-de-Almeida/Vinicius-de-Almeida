@@ -43,9 +43,9 @@ With a strong commitment to building responsive and accessible web interfaces, I
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"  target="_blank">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueLusvarghi/KaiqueLusvarghi/output/github-contribution-grid-snake.svg"  target="_blank">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vinicius-de-Almeida/Vinicius-de-Almeida/output/github-contribution-grid-snake.svg"  target="_blank">
   
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaiqueLusvarghi/KaiqueLusvarghi/output/github-contribution-grid-snake.svg" target="_blank">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vinicius-de-Almeida/Vinicius-de-Almeida/output/github-contribution-grid-snake.svg" target="_blank">
 </picture>
 
 ---
