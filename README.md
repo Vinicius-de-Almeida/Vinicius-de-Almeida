@@ -6,8 +6,8 @@
 
 <br>
 
-A dedicated and proactive Computer Science student focused on Front-end Development.  
-With a strong commitment to building responsive and accessible web interfaces, I am currently expanding my technical expertise by mastering modern frameworks like **React**.
+A dedicated and proactive Front End Developer.  
+With a strong commitment to building responsive and accessible web interfaces, I am currently expanding my technical expertise by mastering modern frameworks like **HTML5, CSS/Sass, Javascript, React and Tailwind**.
 
 <br>
 
