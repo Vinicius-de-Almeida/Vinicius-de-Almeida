@@ -38,8 +38,7 @@ With a strong commitment to building responsive and accessible web interfaces, I
 
 ### 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-de-Almeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Vinicius-de-Almeida)
-<br>
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vinicius-de-Almeida&show_icons=true&theme=vue&include_all_commits=true&count_private=true)](https://github.com/Vinicius-de-Almeida)
 
 ---
 
