@@ -2,11 +2,11 @@
 
 # Vinicius Carvalho de Almeida
 
-### Front-end Developer & Computer Science Undergraduate
+### FullStack Developer & Computer Science Undergraduate
 
 <br>
 
-A dedicated and proactive Front End Developer.  
+A dedicated and proactive FullStack Developer.  
 With a strong commitment to building responsive and accessible web interfaces, I am currently expanding my technical expertise by mastering modern frameworks like **HTML5, CSS/Sass, Javascript, React and Tailwind**.
 
 <br>
